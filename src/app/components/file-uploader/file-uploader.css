@@ -1,0 +1,11 @@
+table {
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+td {
+  padding: 8px;
+}
+#chartdiv {
+  width: 100%;
+  height: 700px;
+}

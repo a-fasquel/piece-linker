@@ -1,0 +1,19 @@
+.csv-header {
+  background-color: #2e7d32; /* dark green */
+  color: white;
+  padding: 16px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.csv-header h2 {
+  margin: 0;
+  font-size: 24px;
+}
+
+.csv-header p {
+  margin: 4px 0 0;
+  font-size: 14px;
+  opacity: 0.9;
+}
